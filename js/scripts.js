@@ -1,4 +1,4 @@
-?
+
 // Objeto para pegar os preços e as fotos das camisetas
 
 var camisetas = {
